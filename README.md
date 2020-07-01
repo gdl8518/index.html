@@ -17,7 +17,7 @@ header {
 	width: 100%;
 	height: 5%;
 	background-color: #362E23;
-
+https://github.com/gdl8518/web6/tree/master/images
 </style>		
 <body>
 
@@ -157,4 +157,4 @@ header {
                 <unsubscribe style="color:#ffffff; text-decoration:underline;">gdl8518@nave.com</unsubscribe></td>
             </tr>
           </table>
-https://github.com/gdl8518/web6/tree/master/images
+
