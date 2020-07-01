@@ -18,6 +18,7 @@ header {
 	height: 5%;
 	background-color: #362E23;
 https://github.com/gdl8518/web6/tree/master/images
+	https://github.com/gdl8518/web6/tree/master/images
 </style>		
 <body>
 
